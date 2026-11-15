@@ -1,3 +1,29 @@
+# worldmonitor
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+实时全球情报表，聚合 AI 新闻、地缘政治监测与基础设施追踪于统一态势感知界面。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # World Monitor
 
 [简体中文](README.zh-CN.md) | [日本語](README.ja-JP.md) | [Русский](README.ru.md)
